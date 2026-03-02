@@ -12,3 +12,6 @@ categories: study
 증명 예시:
 방금 푼 3.19번 증명입니다.
 $$ \mathcal{O}_P = \bigcap_{\mathrm{ht}(\mathfrak{q})=1} (\mathcal{O}_P)_{\mathfrak{q}} $$
+**Exercise 3.19.** Let $Y$ be a variety of dimension $\ge 2$.
+
+*Proof.* Since $f$ is regular on $Y-P$, $f \in K(Y)$. $\square$
